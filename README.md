@@ -81,7 +81,3 @@ As normal work patterns resume, increased traffic is expected, potentially leadi
 - Jupyter Notebook
 - Data analysis libraries (e.g., Pandas, NumPy)
 - Visualization tools (e.g., Matplotlib, Seaborn)
-
-## Acknowledgments
-- Montgomery County, Maryland for providing the dataset
-- BUDT 704 course instructors and staff
