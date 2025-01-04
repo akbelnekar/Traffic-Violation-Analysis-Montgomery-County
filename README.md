@@ -26,7 +26,13 @@ The team processed and cleaned data from the Montgomery government website, focu
 
 ### Driver Negligence and Accidents
 
-One out of three accidents is caused by one of six irresponsible driver actions, indicating a need for targeted traffic calming measures.
+One out of three accidents is caused by one of six irresponsible driver actions, indicating a need for targeted traffic calming measures. These six irresponsible driver actions are:
+1. Speeding
+2. Distracted driving (e.g., using electronic devices)
+3. Drunk driving or driving under the influence
+4. Reckless or aggressive driving
+5. Running red lights and stop signs
+6. Fatigue or drowsy driving
 
 ### Accident Hotspots
 
